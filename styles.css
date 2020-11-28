@@ -136,8 +136,8 @@ body {
 	position: absolute;
 	content: "";
 	display: block;
-	width: 924px;
-	height: 693px;
+	width: 400px;
+	height: 200px;
 	z-index: 1;
 	border-radius: 10px;
 	background: linear-gradient(180deg,rgba(var(--accent),0) 0, rgba(var(--accent), .6) 38%, rgba(var(--accent), 1) 90%);
