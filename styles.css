@@ -6,7 +6,7 @@ body {
 	position: absolute;
 	left: 50%;
 	bottom: 10px;
-	transform: translateX(-100%);
+	transform: translateX(-50%);
 	background: white;
 	border-radius: 10px;
 	padding: 20px;
